@@ -1,0 +1,5 @@
+/Users/jasminetan/Desktop/4330/Basics/Basics/bin/Debug/Basics.exe
+/Users/jasminetan/Desktop/4330/Basics/Basics/bin/Debug/Basics.pdb
+/Users/jasminetan/Desktop/4330/Basics/Basics/obj/x86/Debug/Basics.csproj.CoreCompileInputs.cache
+/Users/jasminetan/Desktop/4330/Basics/Basics/obj/x86/Debug/Basics.exe
+/Users/jasminetan/Desktop/4330/Basics/Basics/obj/x86/Debug/Basics.pdb
